@@ -10,3 +10,5 @@ All rights reserved.
 - Optional Raycast AI actions: summarize chapters, explain verses, and translate verses.
 - Supports multiple data sources (Vedic Scriptures / RapidAPI).
 
+## [Platform support updated] - 2026-05-07
+- Added Windows Support
